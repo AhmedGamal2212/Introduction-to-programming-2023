@@ -36,6 +36,8 @@ Here are some fundamental definitions that we'll be discussing in this session:
 
 - [Recorded Session (YouTube)](https://youtu.be/_39mqS5sexI?si=Nafl4gUV_W2hs_-3) - If you missed the live session, you can watch the recorded video on my YouTube channel.
 
+- [Solution for this session's task](session-1-task-solution/) - You can compare your solution to mine after the deadline of the task.
+
 We look forward to having you in our sessions! If you have any questions or need further assistance, please feel free to reach out.
 
 ***Happy learning!***
