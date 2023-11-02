@@ -4,6 +4,10 @@ Welcome to the ICPC SCU Community's training repository for the First Training B
 
 ## Sessions Overview
 
+This diagram shows just an overview of the whole content. The actual content may be changed or altered, and the order of sessions' content may differ during the program if needed.
+
+![Program Overview](training-content-overview.jpg)
+
 ### [Session #1: Introduction](session-1/)
 - In this session, we provide an overview of the training program and what you can expect. It also has an introduction to some simple definitions such as Programming Languages, Algorithms, Headers and Includes, and Compilation Process. 
 - [Session Details](session-1/)
