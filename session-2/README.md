@@ -28,7 +28,7 @@ Here are some of the key topics we will cover in this session:
 
 ## Session Materials
 
-- [Session Slides (PDF)](session2_slides.pdf) - Download the session slides to follow along.
+- [Session Slides (PDF)](session-2-slides.pdf) - Download the session slides to follow along.
 
 - [Recorded Session (YouTube)](https://youtu.be/kiBbmZsHQQ4?si=_pu4xv0H3fc2eO7f) - If you missed the live session, you can watch the recorded video on our YouTube channel.
 
