@@ -32,6 +32,8 @@ Here are some of the key topics we will cover in this session:
 
 - [Recorded Session (YouTube)](https://youtu.be/kiBbmZsHQQ4?si=_pu4xv0H3fc2eO7f) - If you missed the live session, you can watch the recorded video on our YouTube channel.
 
+- [Task Solution (PDF)](session-2-task-solution/) - After trying to solve the task yourself, you should benefit of being mentored by someone with higher experience and compare your solution with him to improve faster.
+
 We hope you find this session informative and valuable as you continue your journey in programming. If you have any questions or need further assistance, please feel free to reach out.
 
 ***Happy learning!***
