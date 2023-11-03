@@ -16,10 +16,11 @@ This diagram shows just an overview of the whole content. The actual content may
 - Explore the fundamental concepts about memory, data, variables, operators, expressoins, and evaluation explained in a clear and concise way.
 - [Session Details](session-2/)
 
-<!-- ### [Session #3: Algorithms](session3-/)
-- Learn essential algorithms commonly used in competitive programming.
-- [Session Details](session3/)
+### [Session #3: Data Types, Scopes, and Conditionals](session-3/)
+- Explore the fundametnal concepts about data types in C++, scopes, conditional structures, control flow, namespaces, and cin and cout streams.
+- [Session Details](session-3/)
 
+<!-- 
 ### [Session #4: Problem Solving](session4/)
 - Improve your problem-solving skills with hands-on practice.
 - [Session Details](session4/) -->
