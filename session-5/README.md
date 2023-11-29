@@ -1,4 +1,4 @@
-# Session 4
+# Session 5
 
 Welcome to the fifth session of the Introduction to Programming training! In this session, we covered more foundational concepts in C++ programming related to Arrays and Strings.
 
