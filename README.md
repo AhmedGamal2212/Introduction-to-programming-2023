@@ -20,11 +20,9 @@ This diagram shows just an overview of the whole content. The actual content may
 - Explore the fundametnal concepts about data types in C++, scopes, conditional structures, control flow, namespaces, and cin and cout streams.
 - [Session Details](session-3/)
 
-<!-- 
-### [Session #4: Problem Solving](session4/)
-- Improve your problem-solving skills with hands-on practice.
-- [Session Details](session4/) -->
-
+### [Session #4: Loops, and Functions](session-4/)
+- Explore more complex concepts related to loops and functions, including the use cases for using either of them.
+- [Session Details](session-4/)
 
 ## Additional Resources
 
