@@ -25,7 +25,7 @@ This diagram shows just an overview of the whole content. The actual content may
 - [Session Details](session-4/)
 
 ### [Session #5: Arrays, and Strings](session-5/)
-- Explore your first Linear Data Structure, which is the array. Learn more about how to arrays, and some of the problems they solve.
+- Explore your first Linear Data Structure, which is the array. Learn more about how to use arrays, and some of the problems they solve.
 - [Session Details](session-5/)
 
 ## Additional Resources
