@@ -24,6 +24,10 @@ This diagram shows just an overview of the whole content. The actual content may
 - Explore more complex concepts related to loops and functions, including the use cases for using either of them.
 - [Session Details](session-4/)
 
+### [Session #5: Arrays, and Strings](session-5/)
+- Explore your first Linear Data Structure, which is the array. Learn more about how to arrays, and some of the problems they solve.
+- [Session Details](session-5/)
+
 ## Additional Resources
 
 In addition to the sessions, you can find supplementary materials and resources in the [Additional Resources](additional-resources/) directory.
