@@ -28,6 +28,10 @@ This diagram shows just an overview of the whole content. The actual content may
 - Explore your first Linear Data Structure, which is the array. Learn more about how to use arrays, and some of the problems they solve.
 - [Session Details](session-5/)
 
+### [Session #6: Structs, and Solving real problems](session-6/)
+- Dive deeper into additinal ways to store and group your data together in something called a struct (or structure). Learn more details about using built-in functions with arrays, and solve real problems on codeforces to put your skills into practice.
+- [Session Details](session-6/)
+
 ## Additional Resources
 
 In addition to the sessions, you can find supplementary materials and resources in the [Additional Resources](additional-resources/) directory.
